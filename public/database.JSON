@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "title": "Spoken English",
+        "description": "Expand your vocabulary. Learn New Words Every Day.Improve your pronunciation.Learn the natural flow of English.Build English speaking confidence",
+        "price": 4200,
+        "img": "https://images.pexels.com/photos/6929219/pexels-photo-6929219.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "id": 2,
+        "title": "Writing English",
+        "description": "Improve Your English Fluency. Perfect for Emails, Documents, Assignments, and More! Find Out What You Can Accomplish With the Power of Grammarly at Your Fingertips.",
+        "price": 3500,
+        "img": "https://images.pexels.com/photos/5905476/pexels-photo-5905476.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "id": 3,
+        "title": "IELTS",
+        "description": "Improve Your English Fluency. Perfect for Emails, Documents, Assignments, and More! Find Out What You Can Accomplish With the Power of Grammarly at Your Fingertips. Fix Punctuation Errors. Easily Improve Any Text. Find and Add Sources Fast.",
+        "price": 5500,
+        "img": "https://images.pexels.com/photos/5649423/pexels-photo-5649423.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "id": 4,
+        "title": "Speakers Club",
+        "description": "In a normal club meeting, two or three members give prepared speeches of their own choosing but of a given type. These commonly last 6 to 8 minutes.We are waitting for you. we know that you can explore yourself ",
+        "price": 2500,
+        "img": "https://images.pexels.com/photos/3155723/pexels-photo-3155723.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    }
+]

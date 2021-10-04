@@ -1,0 +1,16 @@
+.all-service-main{
+    background-color: snow;
+}
+.all-service{
+    background-color: silver;
+    width: 70%;
+    padding: 30px;
+    margin: 30px auto;
+    border-radius: 5px;
+    
+}
+.all-service img{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}

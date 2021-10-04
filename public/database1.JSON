@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "title": "Spoken English",
+        "description": "Expand your vocabulary. Learn New Words Every Day.Improve your pronunciation.Learn the natural flow of English.Build English speaking confidence",
+        "price": 4200,
+        "img": "https://images.pexels.com/photos/6929219/pexels-photo-6929219.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "id": 2,
+        "title": "Writing English",
+        "description": "Improve Your English Fluency. Perfect for Emails, Documents, Assignments, and More! Find Out What You Can Accomplish With the Power of Grammarly at Your Fingertips. Fix Punctuation Errors. Easily Improve Any Text. Find and Add Sources Fast.",
+        "price": 3500,
+        "img": "https://images.pexels.com/photos/5905476/pexels-photo-5905476.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "id": 3,
+        "title": "IELTS",
+        "description": "Improve Your English Fluency. Perfect for Emails, Documents, Assignments, and More! Find Out What You Can Accomplish With the Power of Grammarly at Your Fingertips. Fix Punctuation Errors. Easily Improve Any Text. Find and Add Sources Fast.",
+        "price": 5500,
+        "img": "https://images.pexels.com/photos/5649423/pexels-photo-5649423.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "id": 4,
+        "title": "Speakers Club",
+        "description": "In a normal club meeting, two or three members give prepared speeches of their own choosing but of a given type. These commonly last 6 to 8 minutes. There is also a Topics Session during which members have the opportunity to make short 2 or 3-minute impromptu speeches",
+        "price": 2500,
+        "img": "https://images.pexels.com/photos/3155723/pexels-photo-3155723.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "id": 5,
+        "title": "Listening",
+        "description": "Train for your IELTS Listening test and learn tips to better your exam performance and listening skills in English with this online course from the British ",
+        "price": 3500,
+        "img": "https://images.pexels.com/photos/4476167/pexels-photo-4476167.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "id": 6,
+        "title": "IELTS LifeSkill",
+        "description": "Improve Your English Fluency. Perfect for Emails, Documents, Assignments, and More! Find Out What You Can Accomplish With the Power of Grammarly at Your Fingertips. Fix Punctuation Errors. Easily Improve Any Text. Find and Add Sources Fast.",
+        "price": 6500,
+        "img": "https://images.pexels.com/photos/5649423/pexels-photo-5649423.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "id": 7,
+        "title": "Writing English for kids",
+        "description": "Improve Your English Fluency. Perfect for Emails, Documents, Assignments, and More! Find Out What You Can Accomplish With the Power of Grammarly at Your Fingertips. Fix Punctuation Errors. Easily Improve Any Text. Find and Add Sources Fast.",
+        "price": 2500,
+        "img": "https://images.pexels.com/photos/5905476/pexels-photo-5905476.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "id": 8,
+        "title": "Spoken English for kids",
+        "description": "Expand your vocabulary. Learn New Words Every Day.Improve your pronunciation.Learn the natural flow of English.Build English speaking confidence",
+        "price": 3200,
+        "img": "https://images.pexels.com/photos/6929219/pexels-photo-6929219.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "id": 9,
+        "title": "Basic Grammer",
+        "description": "Train for your IELTS Listening test and learn tips to better your exam performance and listening skills in English with this online course from the British ",
+        "price": 4500,
+        "img": "https://images.pexels.com/photos/4476167/pexels-photo-4476167.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    }
+]

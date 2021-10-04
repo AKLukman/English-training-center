@@ -1,0 +1,13 @@
+.image{
+    height:300px;
+}
+.button{
+    border: 1px solid white;
+    padding: 5px 20px;
+    background-color: green;
+    border-radius: 10px;
+    color: white;
+}
+h6{
+    margin: 10px 0;
+}

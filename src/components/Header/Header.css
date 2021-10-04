@@ -1,0 +1,9 @@
+.NavLink{
+    margin: 10px;
+    color: azure;
+    text-decoration: none;
+    font-size: 18px;
+}
+.NavLink:hover{
+    color: blanchedalmond;
+}
